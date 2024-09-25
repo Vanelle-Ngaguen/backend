@@ -1,0 +1,26 @@
+{ 
+  "development": {
+    "username": "Vans",
+    "password": "Vans",
+    "database": "thewise2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+
+   "test": {
+    "username": "Vans",
+    "password": "Vans",
+    "database": "thewise2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+
+      },
+
+  "production": {
+"username": "Vans",
+    "password": "Vans",
+    "database": "thewise2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
